@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	color:rgb(233, 222, 222);
+	font: Arial, Sans-Serif;
+	font-weight: bold;
+}
+
+#slide1 {
+    background:url("images/fond.jpg") center 0 no-repeat fixed ;
+}
+
+#slide2 {
+    background:url("images/fonds.jpg") center 0 no-repeat fixed ;
+}
+
+#slide3 {
+    background:url("images/fondss.jpg") center 0 no-repeat fixed ;
+}
+
+p{margin: 0;}
